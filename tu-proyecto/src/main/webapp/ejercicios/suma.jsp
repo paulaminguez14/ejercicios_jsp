@@ -4,7 +4,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<!--  Prueba en :  http://localhost:8080/tu-proyecto/suma.jsp?numero1=10&numero2=20 -->
+<!--  Prueba en :  http://localhost:8080/tu-proyecto/ejercicios/suma.jsp?numero1=10&numero2=20 -->
     <title>Suma Simple</title>
 </head>
 <body>
